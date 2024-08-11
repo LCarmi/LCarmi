@@ -17,4 +17,5 @@ Some info:
 - 👨🏻‍💻 My own RL library, focused on seamlessly dealing with multimodal inputs and hybrid action spaces
  
 Here you can have my CV if interested: [CV - Luca Carminati.pdf](https://github.com/user-attachments/files/16575942/CV.-.Luca.Carminati.pdf)
+
 PS: My profile picture is a realistic portrait of me debugging, which probably I am doing right now. [Original here][https://harvardartmuseums.org/collections/object/228385]
