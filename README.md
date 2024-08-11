@@ -18,4 +18,4 @@ Some info:
  
 Here you can have my CV if interested: [CV - Luca Carminati.pdf](https://github.com/user-attachments/files/16575942/CV.-.Luca.Carminati.pdf)
 
-PS: My profile picture is a realistic portrait of me debugging, which I am probably doing right now. [Original here](https://harvardartmuseums.org/collections/object/228385)
+PS: My profile picture is a _realistic_ portrait of me debugging, which I am probably doing right now. [Original here](https://harvardartmuseums.org/collections/object/228385)
