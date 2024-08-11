@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Luca, currently PhD Student at Politecnico di Milano (expected graduation Jan 2025).
+I'm Luca 🇮🇹, currently PhD Student at Politecnico di Milano (expected graduation Jan 2025).
 
 Some info:
 - 🔭 I’m currently working on solving decision problems at scale. In particular:
