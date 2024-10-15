@@ -12,10 +12,10 @@ Some info:
 ### ⚡ Currently working on:
 - 🎓 Writing my PhD Thesis
 - 🧪 Extending the Team Games frameworks to automatically reorder games if computationally advantageous
-- 📖 Writing journal papers on Monte-Carlo sampling and my whole PhD's _Team game lore_
+- 📖 Curating the submission of journal papers on Monte-Carlo sampling and my whole PhD's _Team game lore_
 - 🛩️ Preparing a journal submission on effective techniques for _Mission Planning_ with RL for Multi-UAVs
 - 👨🏻‍💻 My own RL library, focused on seamlessly dealing with multimodal inputs and hybrid action spaces
  
-Here you can have my CV if interested: [CV - Luca Carminati.pdf](https://github.com/user-attachments/files/16575942/CV.-.Luca.Carminati.pdf)
+Here you can have my CV if interested: [AcademicCV - Luca Carminati.pdf](https://github.com/user-attachments/files/17380987/AcademicCV.-.Luca.Carminati.pdf)
 
 PS: My profile picture is a _realistic_ portrait of me debugging, which I am probably doing right now. [Original here](https://harvardartmuseums.org/collections/object/228385)
